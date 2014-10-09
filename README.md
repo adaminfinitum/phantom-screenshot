@@ -1,4 +1,4 @@
-phantom-screnshot
+phantom-screenshot
 =================
 
 Saves screenshots of URLs using PhantomJS
